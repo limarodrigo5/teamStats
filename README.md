@@ -21,13 +21,22 @@ To use Team Stats, follow these simple steps:
 
 2. Open the project directory in your code editor.
 
-3. Modify the `team` object to add your team's players and game results using the provided methods:
+3. Make sure you have Node.js installed on your system.
+
+4. Copy and paste the provided JavaScript code into a JavaScript file (e.g., `app.js`).
+
+5. Run the script using Node.js:
+
+   ```bash
+   node app.js
+
+6. Modify the `team` object to add your team's players and game results using the provided methods:
    - `addPlayer(newFirstName, newLastName, newAge)` to add a new player.
    - `addGame(newOpponent, newTeamPoints, newOpponentPoints)` to add a new game result.
 
-4. Use the `console.log()` statements to display player information and game results in the console.
+7. Use the `console.log()` statements to display player information and game results in the console.
 
-5. Customize and extend the project to fit your team's needs.
+8. Customize and extend the project to fit your team's needs.
 
 ## Features
 
